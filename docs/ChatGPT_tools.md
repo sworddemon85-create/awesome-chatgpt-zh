@@ -400,6 +400,8 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [让 ChatGPT 联网: WebChatGPT](https://github.com/qunash/chatgpt-advanced)
 * [ChatShell（拾贝）](https://www.chatshellexport.com/)：在浏览器本地将 ChatGPT 对话导出为 PDF、DOCX、Markdown 和 JSON，支持批量导出并保留 LaTeX 公式、代码块与表格。
 
+* [prompt-md：用 Markdown 管理 LLM 提示词模板](https://github.com/sworddemon85-create/prompt-md)：一个 md 文件管理整套提示词，支持 {{变量}} 占位与 {{变量|默认值}} 兜底，list 命令列出每个模板所需变量，render 一键渲染成最终提示词。零依赖、MIT、带单元测试。
+
 ### 更多工具
 
 [ChatGPT 用法和 APP](https://gpt3demo.com/)
